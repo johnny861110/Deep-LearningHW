@@ -1,0 +1,2 @@
+model_checkpoint_path: "2_layer_third_NNmodel_weight.tf"
+all_model_checkpoint_paths: "2_layer_third_NNmodel_weight.tf"
