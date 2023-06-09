@@ -6,4 +6,4 @@
 use hyperopt select hyperparameter setting
 
 ### second week will be weight tuning algorithm
-use epoch bound、learning goal、conditonal learning adjustment ...etc, raise model performance
+use epoch bound、learning goal、conditonal learning rate adjustment ...etc, raise model performance
