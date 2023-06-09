@@ -1,5 +1,9 @@
 # Deep-LearningHW
 
-### first week will be two layer NN plus keras tuner
+## use learning algorithm to raise model performance 
+
+### first week is two layer NN plus keras tuner 
+use hyperopt select hyperparameter setting
 
 ### second week will be weight tuning algorithm
+use epoch bound、learning goal、conditonal learning adjustment ...etc, raise model performance
